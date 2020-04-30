@@ -5,4 +5,6 @@ extension Strings on String {
   bool isEmpty() {
     return this.trim().isEmpty;
   }
+
 }
+
